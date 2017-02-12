@@ -1,0 +1,53 @@
+---
+---
+
+@import "bootstrap";
+
+#top{
+	text-align: center;
+	background:url('../img/coffee.jpg') no-repeat center center;
+	background-size:cover;  
+	color:white;
+	/* Workaround for some mobile browsers */
+	min-height:100vh;    
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#top-name{
+	font-size:60px;
+}
+
+#top-sub{
+	font-size:20px;
+}
+
+
+
+.helper {
+    display: inline-block;
+    height: 25vh;
+    vertical-align: middle;
+}
+
+img {
+    vertical-align: middle;
+}
+
+#bio{
+	margin:10vh 15vh 10vh 15vh;
+	min-height: 100vh;
+}
+
+h2 {
+	font-size:50px;
+}
+
+li {
+	font-size:20px;
+}
+
+p {
+	font-size:20px;
+}
+
