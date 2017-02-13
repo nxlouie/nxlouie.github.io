@@ -8,7 +8,7 @@
     <title>Nathan Louie</title>
 
     <!-- Bootstrap -->
-    <link href="css/site.css" rel="stylesheet">
+    <link href="{{site.url}}/css/site.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -28,15 +28,14 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">NL</a>
+          <a class="navbar-brand" href="/">NL</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Portfolio</a></li>
-            <li><a href="#">Blog</a></li>
+            <li><a href="{{site.url}}/portfolio.html">Portfolio</a></li>
+            <li><a href="{{site.url}}/blog.html">Blog</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
@@ -48,7 +47,7 @@
 
   <footer>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    <script src="javascript/bootstrap.min.js"></script>
+    <script src="{{site.url}}/javascript/bootstrap.min.js"></script>
   </footer>
 
 

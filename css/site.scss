@@ -8,13 +8,14 @@
 	background:url('../img/coffee.jpg') no-repeat center center;
 	background-size:cover;  
 	color:white;
+	text-shadow: black 0.1em 0.1em 0.1em;
 	/* Workaround for some mobile browsers */
 	min-height:100vh;    
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
 
-#top-name{
+.top-name{
 	font-size:60px;
 }
 
@@ -34,7 +35,7 @@ img {
     vertical-align: middle;
 }
 
-#bio{
+.body {
 	margin:10vh 15vh 10vh 15vh;
 	min-height: 100vh;
 }
@@ -49,5 +50,15 @@ li {
 
 p {
 	font-size:20px;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(../img/coffee.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.1em;
 }
 
