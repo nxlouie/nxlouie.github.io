@@ -13,6 +13,8 @@ One aspect of the Daily's website I think could be improved is improving the org
 &nbsp; 
 
 This post was written as part of the Michigan Daily Web Team Application Process.
+[Here is my Javascript Application: A Rock Paper Scissors game][game]
 
 [m-daily]: https://www.michigandaily.com/
 [grade-guide]: https://www.michigandaily.com/section/no-section/michigan-daily-grade-guide-compare-class-grade-distributions-across-lsa
+[game]: https://nxlouie.github.io/rps.html
