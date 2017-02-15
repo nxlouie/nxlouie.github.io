@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-1">Rock Paper Scissors</h1>
+    <p class="lead">Play Rock Paper Scissors Against the Computer!</p>
+  </div>
+</div>
+
+<script type="text/javascript" src=rps.js></script>
+
+<div class="body">
+  <div class="row">
+    <div class="col-xs-6 col-md-6">
+      <h1 class="text-centered">You</h1>
+    </div>
+    <div class="col-xs-6 col-md-6">
+      <h1>Computer</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-6 col-md-6">
+      <img id="user_image" src="img/paper.jpg" class="img-circle" alt="This is me" width="200" height="200">
+    </div>
+    <div class="col-xs-6 col-md-6">
+      <img id="computer_image" src="img/paper.jpg" class="img-circle" alt="This is me" width="200" height="200">    
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-3 col-md-3">
+        <p>Your Score:</p>
+        <p id="u_score">0</p>
+    </div>
+    <div class="col-xs-3 col-md-3">
+      <p>Tie:</p>
+      <p id="tie">0</p>
+    </div>
+    <div class="col-xs-3 col-md-3">
+      <p>Computer Score:</p>
+      <p id="c_score">0</p>
+    </div>
+  </div>
+  <div class="row">
+    <p id="win_message">Who will win??</p>
+  </div>
+  <div class="row">
+    <div class="col-xs-6 col-md-3"></div>
+    <div class="col-xs-6 col-md-6">
+      <button onclick="game('r')" class="btn btn-primary">Rock</button>
+      <button onclick="game('p')" class="btn btn-success">Paper</button>
+      <button onclick="game('s')" class="btn btn-warning">Scissors</button>
+    </div>
+  </div>
+</div>
