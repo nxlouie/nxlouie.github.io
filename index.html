@@ -14,8 +14,7 @@ layout: default
   </p>
   <p>I currently live in San Francisco. Previously, I lived in New York City, and I'm originally from the Metro Detroit Area.</p>
   <p>I enjoy <a href="https://www.strava.com/athletes/48321071" target="_blank">running</a>, 
-    cooking, 
-    and <a href="https://medium.com/@nxlouie" target="_blank">writing</a>.
+    cooking, and writing.
   </p>
   <br>
   <h2>Latest Posts</h2>
@@ -23,7 +22,7 @@ layout: default
     <h3>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </h3>
-    {{ post.date }}
+    {{post.date | date_to_long_string}}
     <p> {{post.excerpt}} </p>
     {% endfor %}
 </div>
