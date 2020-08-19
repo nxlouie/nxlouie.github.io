@@ -6,7 +6,7 @@ categories: posts
 ---
 When we come across new information, we try to piece it together in a way that makes sense. This is a narrative, “a spoken or written account of connected events; a story.” We are most familiar with the narratives presented in novels or Netflix shows. We are less familiar with the narratives present in our careers.
 
-In those careers, there are numerous situations where we are expected to deliver a compelling narrative of a situation we had a part in. Sometimes, we aren't even aware of what’s expected of us. Other times, we unknowingly sabotage our narratives in activities like resume writing, interviewing, or career planning.
+In our careers, there are numerous situations where we are expected to deliver a compelling narrative of a situation we had a part in. Sometimes, we aren't even aware of what’s expected of us. Other times, we unknowingly sabotage our narratives in activities like resume writing, interviewing, or career planning.
 
 ## Comparative Narrative
 Resume writing can be a source of angst because it forces us to justify how worthy we are as professionals. This process involves coming up with the “major achievements” of our past experiences.
