@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Career Narrative"
-date: 2020-08-18
+date: 2020-08-19
 categories: posts
 ---
 When we come across new information, we try to piece it together in a way that makes sense. This is a narrative, “a spoken or written account of connected events; a story.” We are most familiar with the narratives presented in novels or Netflix shows. We are less familiar with the narratives present in our careers.
