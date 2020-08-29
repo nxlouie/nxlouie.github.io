@@ -24,11 +24,11 @@ The past is a series of events that has already happened, and is unchangeable. H
 
 Life is complex, and we’re pulled in many distracting (or exploratory) directions along the way. It looks something like this:
 
-<img src="{{site.url}}/assets/img/career-narrative-event.png" style="display: block; margin: auto;" />
+<img src="/assets/img/career-narrative-event.png" style="display: block; margin: auto;" />
 
 In interviews, the interviewee’s job is delivering a narrative that everything in their life has been led up to this moment of being the most uniquely qualified candidate for the job. There’s two strategies for achieving this goal:
 
-<img src="{{site.url}}/assets/img/career-narrative-adapt.png" style="display: block; margin: auto;" />
+<img src="/assets/img/career-narrative-adapt.png" style="display: block; margin: auto;" />
 
 **Adaptation**. The data point needs to be adapted to fit the attempted narrative. For example, back in college I wanted to be a software engineer (attempted narrative). My first engineering job after freshman year was an internship in test engineering at an automotive battery supplier. My responsibilities were in servicing lab equipment, building wiring harnesses, and testing battery pack voltages. On the side, I found an opportunity to build an application for streamlining an error reporting process. Though this project was a fraction of the overall internship experience, it most strongly contributed towards the "aspiring software engineer" narrative, and became my main point of discussion in resume and interviews.
 
